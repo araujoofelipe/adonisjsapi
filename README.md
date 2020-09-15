@@ -12,5 +12,7 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 
 Use only 
 
-adonis serve --dev to run application
-```
+adonis serve --dev 
+
+to run application
+
